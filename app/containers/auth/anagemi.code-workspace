@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "fe-anagemi",
+			"path": "../../.."
+		},
+		{
+			"name": "anagemi-frontend",
+			"path": "../../../../anagemi-frontend"
+		},
+		{
+			"name": "anagemi",
+			"path": "../../../../../../Sites/anagemi"
+		}
+	],
+	"settings": {}
+}
